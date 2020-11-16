@@ -1,4 +1,4 @@
-# efishery-task
+# bts-test
 Built with Golang, PostgreSQL, Redis, Echo, Bcrypt, and other third-party libraries.
 ## Installation
 Make sure Golang and is already installed.
